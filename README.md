@@ -2,6 +2,28 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+```
+npx create-next-app@latest ./
+```
+
+env:
+
+- typescript
+- tailwind CSS
+- app router
+
+## Knowledge
+
+"use client"
+// means not going to be rendered on server side
+// hook have to be client side
+
+#### To run a dev server of grafbase
+
+```
+npx grafbase@0.24 dev
+```
+
 ## Package in project
 
 ```
