@@ -2,6 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## Package in project
+
+```
+     npm install @headlessui/react cloudinary jsonwebtoken @types/jsonwebtoken graphql-request next-auth
+     npm install @grafbase/sdk --save-dev
+
+     npx @grafbase/sdk init --config-format typescript
+
+```
+
 First, run the development server:
 
 ```bash
